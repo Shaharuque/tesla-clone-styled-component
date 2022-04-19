@@ -16,6 +16,7 @@ function App() {
   return (
     <Container>
       <Para>hi</Para>
+      <p>Dumb</p>
     </Container>
   );
 }
